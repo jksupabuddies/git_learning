@@ -1,1 +1,2 @@
 First Git Commit using the command line by myself
+New change, to check differences in the file from commited to the new file
